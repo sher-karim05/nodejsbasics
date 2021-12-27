@@ -1,0 +1,25 @@
+{
+  "name": "moduels",
+  "version": "1.0.0",
+  "description": "basics of node js",
+  "main": "app.js",
+  "type": "moduels",
+  "scripts": {
+    "test": "os, fs, module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "karimdeveloper12@gmail.com"
+  },
+  "keywords": [
+    "os",
+    "fs",
+    "modules"
+  ],
+  "author": "karim",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "lodash": "^4.17.21"
+  }
+}
